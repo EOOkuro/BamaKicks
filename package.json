@@ -1,17 +1,18 @@
 {
-  "name": "BamaKicks",
+  "name": "bamakicks",
   "version": "1.0.0",
   "description": "Is a project management company than partners with clients and advises projects for many different industry. We bring skillsets in Marketing, Software/Technology, Design, and Business operations.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EOOkuro/BamaKicks.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ezra Okuro",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/EOOkuro/BamaKicks/issues"
@@ -19,5 +20,6 @@
   "homepage": "https://github.com/EOOkuro/BamaKicks#readme",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {}
 }
