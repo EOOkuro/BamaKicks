@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/EOOkuro/BamaKicks#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.18.2"
   },
   "engines": {
     "node": "10.x"
